@@ -32,7 +32,7 @@
 2. Це також допоможе визначити потенційні групи споживачів для збільшення продажів та розробити персоналізовані маркетингові стратегії.
 [qvi](qvi_analysis.ipynb)  
 
-![cmap](chart\cmap.png)
+![cmap](https://github.com/TelihaR/poject_1/blob/main/chart/cmap.png)
 
 
 
