@@ -1,4 +1,6 @@
-# Віртуальне стажування в Quantium
+# Віртуальне стажування в Quantium 
+(https://www.theforage.com/simulations/quantium/data-analytics-rqkb?reloaded=true)
+
 ## Завдання 1: Підготовка даних і аналітика клієнтів
 Мета — провести початкову аналітику клієнтів і транзакцій, щоб отримати глибше розуміння бізнесу.
 ### Основні кроки:
@@ -22,4 +24,3 @@
 
 
 
-https://www.theforage.com/simulations/quantium/data-analytics-rqkb?reloaded=true
